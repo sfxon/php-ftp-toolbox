@@ -24,3 +24,10 @@ Gibt alle Dateien innerhalb eines Ordnerpfades aus.
 * Die erzeugte Datei kann verwendet werden, um anschließend mit Hilfe von glodl.php die Dateien herunterzuladen.
 * glodl.php muss dabei auf dem Rechner ausgeführt werden, der die Daten empfangen soll. 
 * Die Daten werden als HTTP Downloads heruntergeladen.
+
+## Minimum Shopware 5 Plugin
+
+Für die Datenrettung aus ansonsten abgeschirmten Projekten kann dieses Minimum-Shopware Plugin verwendet werden.
+Einfach die weiteren Anwendungen mit hineinpacken. Die Scripte sind später direkt abrufbar,
+womit auch solche Anwendungen gerettet werden können, die über keinen FTP-Zugang mehr verfügen.
+
