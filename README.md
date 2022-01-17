@@ -3,6 +3,12 @@ Simple php tools for extracting data and files directly from a server.
 The tools are very basic, but from time to time you just need a tool,
 and then it is good to have it in the toolbox.
 
+Ich empfehle neben den hier liegenden Tools außerdem:
+
+Adminer: https://www.adminer.org/de/#download<br />als Datenbank-Verwaltungstool in einer Datei.
+
+TinyFileManager: https://tinyfilemanager.github.io<br />als Dateimanager für den Server in nur einer Datei.
+
 ## dlstart.php
 Downloader. Eines der Haupttools.
 Kann verwendet werden, um komplette Ordnerstrukturen rekursiv von einem Server zu kopieren.
